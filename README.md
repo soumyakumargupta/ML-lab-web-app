@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Iris Web-App ML lab
 
 A simple Streamlit app template for you to modify!
 
